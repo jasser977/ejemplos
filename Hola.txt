@@ -1,1 +1,14 @@
-Estamos estudiando comandos en Git 
+Estamos estudiando comandos en Git
+
+
+
+
+
+
+Nuevos cambio en el archivo Hola
+
+Sabado 08 de Febrero de 2020
+
+Estamos probando estos comandos 
+
+Para subirlos al repositorio en linea
